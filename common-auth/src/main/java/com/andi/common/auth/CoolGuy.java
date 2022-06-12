@@ -8,5 +8,5 @@ import lombok.Setter;
 public class CoolGuy {
     private String name;
     private String lastName;
-    // adding some change for second commit
+    // adding some change for second commitgit
 }
